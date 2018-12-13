@@ -16,7 +16,7 @@ dependencies:
   flutter:
     sdk: flutter
   convert: ^2.0.2
-  android_multiple_identifier: ^0.0.1
+  android_multiple_identifier: ^0.0.6
   simple_permissions: ^0.1.9
 
   # The following adds the Cupertino Icons font to your application.
